@@ -2,3 +2,8 @@
   display: grid;
   margin: auto;
 }
+
+.lights {
+  display: inline-block;
+  padding: 20px;
+}

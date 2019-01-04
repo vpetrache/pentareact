@@ -1,0 +1,17 @@
+.bulb {
+  display: inline-block;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin: auto;
+  margin-block-end: 40px;
+  border-color: black;
+}
+
+.bulbIcon {
+  padding: 20px 20px 20px 20px;
+  height: 100px;
+}
